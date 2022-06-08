@@ -82,5 +82,15 @@ section.sobre {
     color: black;
     font-size: 15px;
     font-weight: bold;
-    /*! 22:54 */
+    max-width: 700px;
+}
+
+.texto-sobre button {
+    border: 0;
+    background-color: #017143;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
 }
